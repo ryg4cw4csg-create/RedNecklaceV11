@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.19",
         "UnityVersion": "6000.3.12f1",
-        "BuildDate": "9/2/2026 3:56:13 PM",
-        "BuildSeconds": 11,
+        "BuildDate": "9/2/2026 4:45:17 PM",
+        "BuildSeconds": 15,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "202609021556",
-        "BuildPackageNote": "9/2/2026 3:56:00 PM",
+        "BuildPackageVersion": "202609021645",
+        "BuildPackageNote": "9/2/2026 4:45:00 PM",
         "UniqueBundleName": false,
         "EnableAddressable": false,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 291,
         "MainAssetTotalCount": 245,
         "AllBundleTotalCount": 240,
-        "AllBundleTotalSize": 73699762,
+        "AllBundleTotalSize": 73700824,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -2950,7 +2950,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_artassets_commongroup_font.bundle",
-            "MainBundleSize": 6771668,
+            "MainBundleSize": 6772730,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtAssets/CommonGroup/Font/MiSans-Normal.ttf",
@@ -2974,7 +2974,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_artassets_commongroup_font.bundle",
-            "MainBundleSize": 6771668,
+            "MainBundleSize": 6772730,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -8238,10 +8238,10 @@
         },
         {
             "BundleName": "assets_artassets_commongroup_font.bundle",
-            "FileName": "2e15b3ea134cec9093f9882dfcdbfc69.bundle",
-            "FileHash": "2e15b3ea134cec9093f9882dfcdbfc69",
-            "FileCRC": 873458890,
-            "FileSize": 6771668,
+            "FileName": "4d20c27fb5d577f0c7db6b3c4ff703b0.bundle",
+            "FileHash": "4d20c27fb5d577f0c7db6b3c4ff703b0",
+            "FileCRC": 2506242070,
+            "FileSize": 6772730,
             "Encrypted": false,
             "Tags": [
                 "CommonGroup",
