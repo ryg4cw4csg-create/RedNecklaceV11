@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "202609021713",
-    "PackageNote": "9/2/2026 5:13:46 PM",
+    "PackageVersion": "202609021751",
+    "PackageNote": "9/2/2026 5:51:57 PM",
     "AssetList": [
         {
             "Address": "",
@@ -5894,9 +5894,9 @@
         },
         {
             "BundleName": "assets_exceljson_c_table.bundle",
-            "UnityCRC": 2652920224,
-            "FileHash": "2c8844c435914a54d153f68b517d09ad",
-            "FileCRC": 338455287,
+            "UnityCRC": 408558377,
+            "FileHash": "b2d0c74e9126ab12d190adfd3c2acfc7",
+            "FileCRC": 507772272,
             "FileSize": 6114,
             "Encrypted": false,
             "Tags": [
