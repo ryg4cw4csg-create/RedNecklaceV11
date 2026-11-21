@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.19",
         "UnityVersion": "6000.3.12f1",
-        "BuildDate": "10/20/2026 9:35:54 PM",
-        "BuildSeconds": 4,
+        "BuildDate": "11/21/2026 10:11:48 PM",
+        "BuildSeconds": 75,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "202610202135",
-        "BuildPackageNote": "10/20/2026 9:35:49 PM",
+        "BuildPackageVersion": "202611212210",
+        "BuildPackageNote": "11/21/2026 10:10:32 PM",
         "UniqueBundleName": false,
         "EnableAddressable": false,
         "SupportExtensionless": true,
@@ -34,10 +34,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 292,
-        "MainAssetTotalCount": 246,
-        "AllBundleTotalCount": 241,
-        "AllBundleTotalSize": 73853121,
+        "AssetFileTotalCount": 293,
+        "MainAssetTotalCount": 247,
+        "AllBundleTotalCount": 242,
+        "AllBundleTotalSize": 74045925,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -701,7 +701,20 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_artassets_articlegroup_b263441791d08020_9e3d8d3291923a80a98ed024f368a4ed.bundle",
-            "MainBundleSize": 148980,
+            "MainBundleSize": 149756,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/b263441791d08020/ba2aa7047bd6f0942c9d67d746448591.txt",
+            "AssetGUID": "447da7344b7d6c7409a44e50c81e1795",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "MainBundleName": "assets_artassets_articlegroup_b263441791d08020_ba2aa7047bd6f0942c9d67d746448591.bundle",
+            "MainBundleSize": 141637,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -2963,7 +2976,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_artassets_commongroup_font.bundle",
-            "MainBundleSize": 6776028,
+            "MainBundleSize": 6826410,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtAssets/CommonGroup/Font/MiSans-Normal.ttf",
@@ -2987,7 +3000,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_artassets_commongroup_font.bundle",
-            "MainBundleSize": 6776028,
+            "MainBundleSize": 6826410,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3718,7 +3731,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6131,
+            "MainBundleSize": 6140,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3731,7 +3744,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6131,
+            "MainBundleSize": 6140,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3744,7 +3757,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6131,
+            "MainBundleSize": 6140,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3757,7 +3770,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6131,
+            "MainBundleSize": 6140,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3770,7 +3783,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6131,
+            "MainBundleSize": 6140,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3783,7 +3796,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6131,
+            "MainBundleSize": 6140,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -4791,10 +4804,10 @@
         },
         {
             "BundleName": "assets_artassets_articlegroup_b263441791d08020_9e3d8d3291923a80a98ed024f368a4ed.bundle",
-            "FileName": "2f4ec6ba0522a468a7e6523caa72cdd4.bundle",
-            "FileHash": "2f4ec6ba0522a468a7e6523caa72cdd4",
-            "FileCRC": 3227115093,
-            "FileSize": 148980,
+            "FileName": "219b83a590e5afd1e67d0f924c79e7b1.bundle",
+            "FileHash": "219b83a590e5afd1e67d0f924c79e7b1",
+            "FileCRC": 1940258210,
+            "FileSize": 149756,
             "Encrypted": false,
             "Tags": [
                 "ArticleGroup",
@@ -4806,6 +4819,26 @@
                 {
                     "AssetPath": "Assets/ArtAssets/ArticleGroup/b263441791d08020/9e3d8d3291923a80a98ed024f368a4ed.txt",
                     "AssetGUID": "616284c7fcaa338439163bd999a73251"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_b263441791d08020_ba2aa7047bd6f0942c9d67d746448591.bundle",
+            "FileName": "ce7238ff49799ca95c87474fe6c856dc.bundle",
+            "FileHash": "ce7238ff49799ca95c87474fe6c856dc",
+            "FileCRC": 3881660621,
+            "FileSize": 141637,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/ArtAssets/ArticleGroup/b263441791d08020/ba2aa7047bd6f0942c9d67d746448591.txt",
+                    "AssetGUID": "447da7344b7d6c7409a44e50c81e1795"
                 }
             ]
         },
@@ -8271,10 +8304,10 @@
         },
         {
             "BundleName": "assets_artassets_commongroup_font.bundle",
-            "FileName": "13269e33b95f39b25f64766be42646f9.bundle",
-            "FileHash": "13269e33b95f39b25f64766be42646f9",
-            "FileCRC": 1524999098,
-            "FileSize": 6776028,
+            "FileName": "6537a14d10777d2df6cb9de0fcca10cc.bundle",
+            "FileHash": "6537a14d10777d2df6cb9de0fcca10cc",
+            "FileCRC": 638960038,
+            "FileSize": 6826410,
             "Encrypted": false,
             "Tags": [
                 "CommonGroup",
@@ -8939,10 +8972,10 @@
         },
         {
             "BundleName": "assets_exceljson_c_table.bundle",
-            "FileName": "38a8e07639994bae2e8d07877546e431.bundle",
-            "FileHash": "38a8e07639994bae2e8d07877546e431",
-            "FileCRC": 3658687626,
-            "FileSize": 6131,
+            "FileName": "167535c9a9f276f1b6f1bff65862ac55.bundle",
+            "FileHash": "167535c9a9f276f1b6f1bff65862ac55",
+            "FileCRC": 2185736908,
+            "FileSize": 6140,
             "Encrypted": false,
             "Tags": [
                 "GameConfigGroup",
